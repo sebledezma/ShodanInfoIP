@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShodanInfoIP</string>
+    <string name="action_settings">Settings</string>
+    <string name="what_to_do">Insert an IP [e.g. 8.8.8.8]</string>
+    <string name="button">Search</string>
+    <string name="App_info">This app will show you all kind of information visible from internet about a public IP</string>
+</resources>
